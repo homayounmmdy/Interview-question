@@ -1,7 +1,6 @@
 {
-  "name": "nextra-docs-template",
+  "name": "interview-question",
   "version": "0.0.1",
-  "description": "Nextra docs template",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -9,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shuding/nextra-docs-template.git"
+    "url": "git+https://github.com/homayounmmdy/Interview-question.git"
   },
   "author": "Homayoun ",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shuding/nextra-docs-template/issues"
+    "url": "https://github.com/homayounmmdy/Interview-question/issues"
   },
-  "homepage": "https://github.com/shuding/nextra-docs-template#readme",
+  "homepage": "https://github.com/homayounmmdy/Interview-question#readme",
   "dependencies": {
     "next": "^13.0.6",
     "nextra": "latest",
